@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Ausaaf Nabi... 
- 
+![Banner1](/Assets/screedbot.gif)
 <!--
 **ausaafnabi/ausaafnabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +18,8 @@ Here are some ideas to get you started:
 
 ### Profile Status
 ![Ausaaf's github stats](https://github-readme-stats.vercel.app/api?username=ausaafnabi&show_icons=true)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaafnabi&hide=glsl" />
 
 ### WORK UNDER PROGRESS 💬 
+<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/signbot.gif">
+![Banner2](/Assets/signbot.gif)
