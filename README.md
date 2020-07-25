@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Banner1](/Assets/screedbot.gif)
+<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/screedbot.gif">
+
 <!--
 **ausaafnabi/ausaafnabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,4 +23,4 @@ Here are some ideas to get you started:
 
 ### WORK UNDER PROGRESS 💬 
 <img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/signbot.gif">
-![Banner2](/Assets/signbot.gif)
+
