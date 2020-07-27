@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ### Profile Status
 ![Ausaaf's github stats](https://github-readme-stats.vercel.app/api?username=ausaafnabi&show_icons=true)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaafnabi&hide=glsl" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaafnabi&hide=glsl" />
 
 
