@@ -1,6 +1,6 @@
 ### Hi, I am Ausaaf Nabi 👋
 
-<img width="100%" align="center" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/untitled1.png" alt="Banner Says a Lot about me">
+<img width="110%" height="90%" align="center" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/untitled.png" alt="Banner Says a Lot about me">
 
 I am passionate about building scalable Microservices, creating technology to elevate peoples lives. I enjoy building open-source projects, working with various programming languages and doing cross-platform interactions (🤔 basically, merging different software stacks.). I have great interest in reading about different architectures 📫 (like, Reformer for NLP). Always, Looking forward to collaborate on projects 👯. Get in touch for working on something cool. 
 <!--
