@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi, I am Ausaaf Nabi 👋
 
-<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/screedbot.gif">
+<img width="100%" align="center" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/untitled1.png" alt="Banner Says a Lot about me">
 
+I am passionate about building scalable Microservices, creating technology to elevate peoples lives. I enjoy building open-source projects, working with various programming languages and doing cross-platform interactions (🤔 basically, merging different software stacks.). I have great interest in reading about different architectures 📫 (like, Reformer for NLP). Always, Looking forward to collaborate on projects 👯. Get in touch for working on something cool. 
 <!--
 **ausaafnabi/ausaafnabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### WORK UNDER PROGRESS 💬 
+<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/signbot.gif">
+
 ### Profile Status
 ![Ausaaf's github stats](https://github-readme-stats.vercel.app/api?username=ausaafnabi&show_icons=true)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausaafnabi&hide=glsl" />
 
-### WORK UNDER PROGRESS 💬 
-<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/signbot.gif">
 
