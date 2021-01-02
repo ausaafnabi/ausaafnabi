@@ -2,7 +2,7 @@ name: Current Project GIF Updater
 
 on:
  schedule: 
-  - cron:  '5 * * * *'
+  - cron:  '5 6/5 * * *'
 
 jobs:
   run:
@@ -38,4 +38,5 @@ jobs:
       if: steps.commit.outputs.push == 'true'
       uses: ad-m/github-push-action@master
       with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}      
+         github_token: ${{ secrets.GITHUB_TOKEN }}
+         force: true     
