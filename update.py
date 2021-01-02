@@ -61,7 +61,7 @@ def main():
     gifUrl = "http://wigflip.com/signbot"
     print(resUrl)
 
-    sourceLoc = "signbot.gif"
+    sourceLoc = "Assets/signbot.gif"
 
     #message to be configured using github api
     message  = " Last worked on : " + getCurrentWorkingRepo(resUrl) 
