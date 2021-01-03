@@ -2,7 +2,7 @@ name: Current Project GIF Updater
 
 on:
  schedule: 
-  - cron:  '5 6/5 * * *'
+  - cron:  '0 9/10 * * *'
 
 jobs:
   run:
