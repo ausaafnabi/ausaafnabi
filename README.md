@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ### WORK UNDER PROGRESS 💬 
-<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/master/Assets/signbot.gif">
+<img align="bottom" src="https://raw.githubusercontent.com/ausaafnabi/ausaafnabi/main/Assets/signbot.gif">
 
 ### Profile Status
 ![Ausaaf's github stats](https://github-readme-stats.vercel.app/api?username=ausaafnabi&show_icons=true)
