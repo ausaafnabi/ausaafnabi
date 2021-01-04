@@ -1,6 +1,7 @@
 import mechanize
 from bs4 import BeautifulSoup
 import requests
+import random
 
 username = "ausaafnabi" 
 resUrl = "https://api.github.com/users/"+ username +"/repos?sort=updated"
@@ -14,10 +15,12 @@ def getCurrentWorkingRepo(resUrl):
         if reponame == username:
             reponame = repo[1]['name']
         print("[ Fetched Repo Name : " +str(reponame)+ " ]")
+        randrepo = repo[random.randint(2,15)]['name']
+        print("[ Fetched Repo Name : " +str(reponame)+ " ]")
     except HTTPError:
         print("Error while fetching the repository")
 
-    return reponame
+    return reponame,randrepo 
 
 
 # Section to scrape the gif 
@@ -64,7 +67,8 @@ def main():
     sourceLoc = "Assets/signbot.gif"
 
     #message to be configured using github api
-    message  = " Last worked on : " + getCurrentWorkingRepo(resUrl) 
+    fetchedRepo = getCurrentWorkingRepo(resUrl) 
+    message  = " Last worked on : " + fetchedRepo[0] + ", Also like : " + fetchedRepo[1]
     print(message)
     fetchGif(gifUrl,sourceLoc,message)
     
