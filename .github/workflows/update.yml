@@ -2,7 +2,7 @@ name: Current Project GIF Updater
 
 on:
  schedule: 
-  - cron:  '5 6/5 * * *'
+  - cron:  '0 10/10 * * *'
 
 jobs:
   run:
@@ -33,6 +33,7 @@ jobs:
            git commit -m "Add changes" -a
            echo "::set-output name=push::true"
         fi
+        git pull
       shell: bash
     - name: Push changes
       if: steps.commit.outputs.push == 'true'
