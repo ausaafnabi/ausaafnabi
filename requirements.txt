@@ -1,3 +1,3 @@
 requests==2.24.0
-mechanize==0.4.5
+mechanize==0.4.6
 beautifulsoup4==4.9.3
